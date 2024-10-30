@@ -3111,11 +3111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\ServiceLayer\\ServiceLayer.csproj",
+      "projectUniqueName": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\ServiceLayer\\ServiceLayer.csproj",
       "projectName": "ServiceLayer",
-      "projectPath": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\ServiceLayer\\ServiceLayer.csproj",
+      "projectPath": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\ServiceLayer\\ServiceLayer.csproj",
       "packagesPath": "C:\\Users\\phamk\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\ServiceLayer\\obj\\",
+      "outputPath": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\ServiceLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phamk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3133,8 +3133,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\RepositoryLayer\\RepositoryLayer.csproj": {
-              "projectPath": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\RepositoryLayer\\RepositoryLayer.csproj"
+            "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\RepositoryLayer\\RepositoryLayer.csproj": {
+              "projectPath": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\RepositoryLayer\\RepositoryLayer.csproj"
             }
           }
         }

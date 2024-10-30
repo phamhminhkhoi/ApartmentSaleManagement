@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {
+    "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
+        "projectUniqueName": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
         "projectName": "BusinessObjectLayer",
-        "projectPath": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
+        "projectPath": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
         "packagesPath": "C:\\Users\\phamk\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\BusinessObjectLayer\\obj\\",
+        "outputPath": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\BusinessObjectLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phamk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,14 +95,14 @@
         }
       }
     },
-    "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\phamk\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phamk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -120,8 +120,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {
-                "projectPath": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj"
+              "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {
+                "projectPath": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj"
               }
             }
           }

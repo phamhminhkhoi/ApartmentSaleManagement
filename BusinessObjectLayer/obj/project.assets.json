@@ -4349,11 +4349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
+      "projectUniqueName": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
       "projectName": "BusinessObjectLayer",
-      "projectPath": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
+      "projectPath": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
       "packagesPath": "C:\\Users\\phamk\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\BusinessObjectLayer\\obj\\",
+      "outputPath": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\BusinessObjectLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phamk\\AppData\\Roaming\\NuGet\\NuGet.Config",
