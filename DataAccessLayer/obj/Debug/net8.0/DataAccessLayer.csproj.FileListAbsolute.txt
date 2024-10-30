@@ -1,0 +1,15 @@
+C:\Users\phamk\source\repos\ApartmentSaleManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\phamk\source\repos\ApartmentSaleManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\phamk\source\repos\ApartmentSaleManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\phamk\source\repos\ApartmentSaleManagement\DataAccessLayer\bin\Debug\net8.0\BusinessObjectLayer.dll
+C:\Users\phamk\source\repos\ApartmentSaleManagement\DataAccessLayer\bin\Debug\net8.0\BusinessObjectLayer.pdb
+C:\Users\phamk\source\repos\ApartmentSaleManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\phamk\source\repos\ApartmentSaleManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamk\source\repos\ApartmentSaleManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\phamk\source\repos\ApartmentSaleManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\phamk\source\repos\ApartmentSaleManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\phamk\source\repos\ApartmentSaleManagement\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\phamk\source\repos\ApartmentSaleManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\phamk\source\repos\ApartmentSaleManagement\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\phamk\source\repos\ApartmentSaleManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\phamk\source\repos\ApartmentSaleManagement\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

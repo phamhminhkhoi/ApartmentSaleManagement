@@ -1,0 +1,171 @@
+﻿<Window x:Class="PresentationLayerWPF.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Admin Panel" Height="600" Width="1000" 
+        WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None">
+    <Window.Background>
+        <ImageBrush ImageSource="https://as1.ftcdn.net/v2/jpg/05/69/62/50/1000_F_569625055_MHLKSN5l8QKDL8WDMxQ0EnuTHKqQLbUk.jpg" Opacity="1">
+            <ImageBrush.RelativeTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                    <TranslateTransform X="-0.2" Y="-0.2"/>
+                </TransformGroup>
+            </ImageBrush.RelativeTransform>
+        </ImageBrush>
+    </Window.Background>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Sidebar -->
+        <Border Background="#FFFFFF" CornerRadius="20" Padding="10" Margin="10,10,0,10" HorizontalAlignment="Left" Width="185">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" ShadowDepth="0" Color="#000000" Opacity="0.3"/>
+            </Border.Effect>
+            <StackPanel VerticalAlignment="Stretch">
+                <TextBlock Text="Admin Panel" FontSize="24" FontWeight="Bold" Foreground="Black" 
+                   Margin="10" HorizontalAlignment="Center">
+                    <TextBlock.Effect>
+                        <DropShadowEffect BlurRadius="4" ShadowDepth="2" Color="#000000" Opacity="0.6"/>
+                    </TextBlock.Effect>
+                </TextBlock>
+
+                <!-- Property Button -->
+                <Button Content="Property" Click="PropertyButton_Click" 
+                Padding="10" FontSize="16" FontWeight="Bold" 
+                Foreground="White" Width="140" Height="40" 
+                HorizontalAlignment="Center" Margin="10">
+                    <Button.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                            <GradientStop Color="#000000" Offset="0.0"/>
+                            <GradientStop Color="#000000" Offset="1.0"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                    <Button.Effect>
+                        <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="#000000" Opacity="0.5"/>
+                    </Button.Effect>
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border Background="{TemplateBinding Background}" CornerRadius="20">
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Border>
+                            <ControlTemplate.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Effect">
+                                        <Setter.Value>
+                                            <DropShadowEffect Color="#000000" BlurRadius="15" ShadowDepth="0" Opacity="0.7"/>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Trigger>
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+
+                <!-- Member Button -->
+                <Button Content="Member" Click="MemberButton_Click" 
+                Padding="10" FontSize="16" FontWeight="Bold" 
+                Foreground="White" Width="140" Height="40" 
+                HorizontalAlignment="Center" Margin="10">
+                    <Button.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                            <GradientStop Color="#000000" Offset="0.0"/>
+                            <GradientStop Color="#000000" Offset="1.0"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                    <Button.Effect>
+                        <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="#000000" Opacity="0.5"/>
+                    </Button.Effect>
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border Background="{TemplateBinding Background}" CornerRadius="20">
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Border>
+                            <ControlTemplate.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Effect">
+                                        <Setter.Value>
+                                            <DropShadowEffect Color="#1565C0" BlurRadius="15" ShadowDepth="0" Opacity="0.7"/>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Trigger>
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+
+                <!-- Transaction Button -->
+                <Button Content="Transaction" Click="TransactionButton_Click" 
+                Padding="10" FontSize="16" FontWeight="Bold" 
+                Foreground="White" Width="140" Height="40" 
+                HorizontalAlignment="Center" Margin="10">
+                    <Button.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                            <GradientStop Color="#000000" Offset="0.0"/>
+                            <GradientStop Color="#000000" Offset="1.0"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                    <Button.Effect>
+                        <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="#000000" Opacity="0.5"/>
+                    </Button.Effect>
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border Background="{TemplateBinding Background}" CornerRadius="20">
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Border>
+                            <ControlTemplate.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Effect">
+                                        <Setter.Value>
+                                            <DropShadowEffect Color="#E65100" BlurRadius="15" ShadowDepth="0" Opacity="0.7"/>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Trigger>
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+
+                <!-- Logout Button (already styled) -->
+                <Button Content="Logout" Click="LogoutButton_Click"
+                Padding="10" FontSize="16" FontWeight="Bold"
+                Foreground="White" Width="140" Height="40"
+                HorizontalAlignment="Center" Margin="10">
+                    <Button.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                            <GradientStop Color="#FF6A6A" Offset="0.0"/>
+                            <GradientStop Color="#FF3A3A" Offset="1.0"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                    <Button.Effect>
+                        <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="#FF6666" Opacity="0.5"/>
+                    </Button.Effect>
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border Background="{TemplateBinding Background}" CornerRadius="20">
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Border>
+                            <ControlTemplate.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Effect">
+                                        <Setter.Value>
+                                            <DropShadowEffect Color="#FF4D4D" BlurRadius="15" ShadowDepth="0" Opacity="0.7"/>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Trigger>
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+
+            </StackPanel>
+        </Border>
+
+
+        <!-- Main Content Frame -->
+        <Frame x:Name="MainFrame" Grid.Column="1" NavigationUIVisibility="Hidden" Background="Transparent"/>
+    </Grid>
+</Window>

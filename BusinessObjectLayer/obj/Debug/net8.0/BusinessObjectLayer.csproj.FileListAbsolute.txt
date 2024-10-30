@@ -1,0 +1,14 @@
+C:\Users\phamk\source\repos\ApartmentSaleManagement\BusinessObjectLayer\bin\Debug\net8.0\BusinessObjectLayer.deps.json
+C:\Users\phamk\source\repos\ApartmentSaleManagement\BusinessObjectLayer\bin\Debug\net8.0\BusinessObjectLayer.runtimeconfig.json
+C:\Users\phamk\source\repos\ApartmentSaleManagement\BusinessObjectLayer\bin\Debug\net8.0\BusinessObjectLayer.dll
+C:\Users\phamk\source\repos\ApartmentSaleManagement\BusinessObjectLayer\bin\Debug\net8.0\BusinessObjectLayer.pdb
+C:\Users\phamk\source\repos\ApartmentSaleManagement\BusinessObjectLayer\obj\Debug\net8.0\BusinessObjectLayer.csproj.AssemblyReference.cache
+C:\Users\phamk\source\repos\ApartmentSaleManagement\BusinessObjectLayer\obj\Debug\net8.0\BusinessObjectLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamk\source\repos\ApartmentSaleManagement\BusinessObjectLayer\obj\Debug\net8.0\BusinessObjectLayer.AssemblyInfoInputs.cache
+C:\Users\phamk\source\repos\ApartmentSaleManagement\BusinessObjectLayer\obj\Debug\net8.0\BusinessObjectLayer.AssemblyInfo.cs
+C:\Users\phamk\source\repos\ApartmentSaleManagement\BusinessObjectLayer\obj\Debug\net8.0\BusinessObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\phamk\source\repos\ApartmentSaleManagement\BusinessObjectLayer\obj\Debug\net8.0\BusinessObjectLayer.dll
+C:\Users\phamk\source\repos\ApartmentSaleManagement\BusinessObjectLayer\obj\Debug\net8.0\refint\BusinessObjectLayer.dll
+C:\Users\phamk\source\repos\ApartmentSaleManagement\BusinessObjectLayer\obj\Debug\net8.0\BusinessObjectLayer.pdb
+C:\Users\phamk\source\repos\ApartmentSaleManagement\BusinessObjectLayer\obj\Debug\net8.0\BusinessObjectLayer.genruntimeconfig.cache
+C:\Users\phamk\source\repos\ApartmentSaleManagement\BusinessObjectLayer\obj\Debug\net8.0\ref\BusinessObjectLayer.dll
