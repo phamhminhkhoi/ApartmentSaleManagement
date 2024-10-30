@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phamk\\source\\repos\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {}
+    "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phamk\\source\\repos\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {
+    "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phamk\\source\\repos\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
+        "projectUniqueName": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
         "projectName": "BusinessObjectLayer",
-        "projectPath": "C:\\Users\\phamk\\source\\repos\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
+        "projectPath": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
         "packagesPath": "C:\\Users\\phamk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phamk\\source\\repos\\ApartmentSaleManagement\\BusinessObjectLayer\\obj\\",
+        "outputPath": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\BusinessObjectLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phamk\\AppData\\Roaming\\NuGet\\NuGet.Config",

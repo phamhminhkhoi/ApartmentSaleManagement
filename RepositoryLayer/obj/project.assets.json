@@ -3093,11 +3093,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phamk\\source\\repos\\ApartmentSaleManagement\\RepositoryLayer\\RepositoryLayer.csproj",
+      "projectUniqueName": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\RepositoryLayer\\RepositoryLayer.csproj",
       "projectName": "RepositoryLayer",
-      "projectPath": "C:\\Users\\phamk\\source\\repos\\ApartmentSaleManagement\\RepositoryLayer\\RepositoryLayer.csproj",
+      "projectPath": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\RepositoryLayer\\RepositoryLayer.csproj",
       "packagesPath": "C:\\Users\\phamk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phamk\\source\\repos\\ApartmentSaleManagement\\RepositoryLayer\\obj\\",
+      "outputPath": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\RepositoryLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phamk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3115,8 +3115,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\phamk\\source\\repos\\ApartmentSaleManagement\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\phamk\\source\\repos\\ApartmentSaleManagement\\DataAccessLayer\\DataAccessLayer.csproj"
+            "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "D:\\Users\\phamk\\Source\\Repos\\ApartmentSaleManagement\\DataAccessLayer\\DataAccessLayer.csproj"
             }
           }
         }

@@ -3,10 +3,10 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        Title="Login" Height="450" Width="800" WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None">
+        Title="Login" Height="450" Width="800" WindowStartupLocation="CenterScreen" AllowsTransparency="False" WindowStyle="None">
     <Window.Background>
         <!-- Soft blurred overlay background -->
-        <ImageBrush ImageSource="https://png.pngtree.com/background/20230416/original/pngtree-building-looking-up-at-the-background-of-high-rise-buildings-picture-image_2444255.jpg" Opacity="0.8">
+        <ImageBrush ImageSource="https://wallpaper.forfun.com/fetch/18/1868ad33a9737d197733a7102b886dc5.jpeg" Opacity="0.8">
             <ImageBrush.RelativeTransform>
                 <TransformGroup>
                     <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>

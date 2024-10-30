@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\phamk\source\repos\ApartmentSaleManagement\PresentationLayerWPF\obj\Debug\net8.0-windows\
+D:\Users\phamk\Source\Repos\ApartmentSaleManagement\PresentationLayerWPF\obj\Debug\net8.0-windows\
 PresentationLayerWPF
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\phamk\source\repos\ApartmentSaleManagement\PresentationLayerWPF\App.xaml
+D:\Users\phamk\Source\Repos\ApartmentSaleManagement\PresentationLayerWPF\App.xaml
 7612438966
 
 121185499556
-248-296468206
+248-934636473
 AdminWindow.xaml;CreatePropertyForm.xaml;MainWindow.xaml;MemberPage.xaml;PropertyPage.xaml;UpdatePropertyForm.xaml;ViewDetailWindow.xaml;
 
 False
