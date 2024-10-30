@@ -157,7 +157,7 @@ namespace PresentationLayerWPF
             List<Property> searchList = new List<Property>();
             foreach (var property in linkObject) 
             {
-                if (property.PropertyName.ToLower().Contains(searchItem.ToLower()))
+                if (property.PropertyName.ToLower().Contains(searchItem.ToLower()) || property.Location.ToLower().Contains(searchItem.ToLower()))
                 {
                     searchList.Add(property);
                 }

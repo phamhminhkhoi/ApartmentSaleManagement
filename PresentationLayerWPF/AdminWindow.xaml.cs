@@ -38,11 +38,11 @@ namespace PresentationLayerWPF
             MainFrame.Navigate(propertyPage);
         }
 
-        private void TransactionButton_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Sorry ! You cannot using this feature for now. We will update in time.");
+        //private void TransactionButton_Click(object sender, RoutedEventArgs e)
+        //{
+        //    MessageBox.Show("Sorry ! You cannot using this feature for now. We will update in time.");
 
-        }
+        //}
 
         private void LogoutButton_Click(object sender, RoutedEventArgs e)
         {

@@ -84,10 +84,10 @@ namespace PresentationLayerWPF
             }
         }
 
-        private void AddMemberButton_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Sorry ! You cannot using this feature for now. We will update in time.");
-        }
+        //private void AddMemberButton_Click(object sender, RoutedEventArgs e)
+        //{
+        //    MessageBox.Show("Sorry ! You cannot using this feature for now. We will update in time.");
+        //}
 
         private void EditMemberButton_Click(object sender, RoutedEventArgs e)
         {

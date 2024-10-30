@@ -26,7 +26,7 @@ namespace PresentationLayerWPF
                 // Check for empty fields
                 if (string.IsNullOrWhiteSpace(email) || string.IsNullOrWhiteSpace(password))
                 {
-                    ErrorMessage.Text = "Please enter both email and password.";
+                    MessageBox.Show("Please enter both email and password.");
                     return;
                 }
 
@@ -35,14 +35,15 @@ namespace PresentationLayerWPF
 
                 if (member == null)
                 {
-                    ErrorMessage.Text = "No account found with this email.";
+                    MessageBox.Show("No account found with this email.");
+
                     return;
                 }
 
                 // Check if the password matches
                 if (member.Password != password)
                 {
-                    ErrorMessage.Text = "Invalid email or password.";
+                    MessageBox.Show("Invalid email or password.");
                     return;
                 }
 
@@ -56,27 +57,27 @@ namespace PresentationLayerWPF
                 }
                 else
                 {
-                    ErrorMessage.Text = "You do not have access to the system.";
+                    MessageBox.Show("You do not have access to the system.");
                 }
             }
             catch (FormatException)
             {
-                ErrorMessage.Text = "The email format is invalid.";
+                MessageBox.Show("The email format is invalid.");
             }
             catch (NullReferenceException)
             {
-                ErrorMessage.Text = "An unexpected error occurred. Please try again.";
+                MessageBox.Show("An unexpected error occurred. Please try again.");
             }
             catch (SqlException ex)
             {
                 Console.WriteLine(ex.ToString());
-                ErrorMessage.Text = "An error occurred during login. Please contact support if the issue persists.";
+                MessageBox.Show("An error occurred during login. Please contact support if the issue persists.");
             }
 
             catch (Exception ex)
             {
                 // Log exception details for debugging
-                ErrorMessage.Text = "An error occurred during login. Please contact support if the issue persists.";
+                MessageBox.Show("An error occurred during login. Please contact support if the issue persists.");
             }
             
         }

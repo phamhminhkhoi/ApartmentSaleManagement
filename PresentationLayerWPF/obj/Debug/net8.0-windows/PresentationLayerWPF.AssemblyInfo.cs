@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PresentationLayerWPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3cb2607652101a327c64e2d8b7718cf27a256cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dece3a6879bb238749cd499c4ec9489b0fdaa012")]
 [assembly: System.Reflection.AssemblyProductAttribute("PresentationLayerWPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PresentationLayerWPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

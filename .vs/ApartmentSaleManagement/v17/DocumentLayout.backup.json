@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13238373-C7CC-471C-ACD9-0B130860A263}|PresentationLayerWPF\\PresentationLayerWPF.csproj|d:\\users\\phamk\\source\\repos\\git\\apartmentsalemanagement\\presentationlayerwpf\\memberpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13238373-C7CC-471C-ACD9-0B130860A263}|PresentationLayerWPF\\PresentationLayerWPF.csproj|solutionrelative:presentationlayerwpf\\memberpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13238373-C7CC-471C-ACD9-0B130860A263}|PresentationLayerWPF\\PresentationLayerWPF.csproj|d:\\users\\phamk\\source\\repos\\git\\apartmentsalemanagement\\presentationlayerwpf\\memberpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13238373-C7CC-471C-ACD9-0B130860A263}|PresentationLayerWPF\\PresentationLayerWPF.csproj|solutionrelative:presentationlayerwpf\\memberpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13238373-C7CC-471C-ACD9-0B130860A263}|PresentationLayerWPF\\PresentationLayerWPF.csproj|d:\\users\\phamk\\source\\repos\\git\\apartmentsalemanagement\\presentationlayerwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13238373-C7CC-471C-ACD9-0B130860A263}|PresentationLayerWPF\\PresentationLayerWPF.csproj|solutionrelative:presentationlayerwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13238373-C7CC-471C-ACD9-0B130860A263}|PresentationLayerWPF\\PresentationLayerWPF.csproj|d:\\users\\phamk\\source\\repos\\git\\apartmentsalemanagement\\presentationlayerwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13238373-C7CC-471C-ACD9-0B130860A263}|PresentationLayerWPF\\PresentationLayerWPF.csproj|solutionrelative:presentationlayerwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13238373-C7CC-471C-ACD9-0B130860A263}|PresentationLayerWPF\\PresentationLayerWPF.csproj|d:\\users\\phamk\\source\\repos\\git\\apartmentsalemanagement\\presentationlayerwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{13238373-C7CC-471C-ACD9-0B130860A263}|PresentationLayerWPF\\PresentationLayerWPF.csproj|solutionrelative:presentationlayerwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13238373-C7CC-471C-ACD9-0B130860A263}|PresentationLayerWPF\\PresentationLayerWPF.csproj|d:\\users\\phamk\\source\\repos\\git\\apartmentsalemanagement\\presentationlayerwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13238373-C7CC-471C-ACD9-0B130860A263}|PresentationLayerWPF\\PresentationLayerWPF.csproj|solutionrelative:presentationlayerwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +43,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MemberPage.xaml.cs",
+              "DocumentMoniker": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\PresentationLayerWPF\\MemberPage.xaml.cs",
+              "RelativeDocumentMoniker": "PresentationLayerWPF\\MemberPage.xaml.cs",
+              "ToolTip": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\PresentationLayerWPF\\MemberPage.xaml.cs",
+              "RelativeToolTip": "PresentationLayerWPF\\MemberPage.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:54:04.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberPage.xaml",
+              "DocumentMoniker": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\PresentationLayerWPF\\MemberPage.xaml",
+              "RelativeDocumentMoniker": "PresentationLayerWPF\\MemberPage.xaml",
+              "ToolTip": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\PresentationLayerWPF\\MemberPage.xaml*",
+              "RelativeToolTip": "PresentationLayerWPF\\MemberPage.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T11:53:54.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\PresentationLayerWPF\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PresentationLayerWPF\\AdminWindow.xaml.cs",
+              "ToolTip": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\PresentationLayerWPF\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "PresentationLayerWPF\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:53:38.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\PresentationLayerWPF\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "PresentationLayerWPF\\AdminWindow.xaml",
+              "ToolTip": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\PresentationLayerWPF\\AdminWindow.xaml*",
+              "RelativeToolTip": "PresentationLayerWPF\\AdminWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T11:53:03.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\PresentationLayerWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PresentationLayerWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\PresentationLayerWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PresentationLayerWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:39:01.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Users\\phamk\\Source\\Repos\\Git\\ApartmentSaleManagement\\PresentationLayerWPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PresentationLayerWPF\\MainWindow.xaml",
