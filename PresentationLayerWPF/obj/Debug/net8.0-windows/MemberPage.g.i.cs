@@ -85,7 +85,7 @@ namespace PresentationLayerWPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PresentationLayerWPF;component/memberpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PresentationLayerWPF;V1.0.0.0;component/memberpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\MemberPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
